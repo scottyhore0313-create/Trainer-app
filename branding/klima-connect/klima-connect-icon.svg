@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Emblem: cooling (blue) and heating (orange) arrows forming a connected cycle -->
+  <g fill="none" stroke-width="12" stroke-linecap="round">
+    <path d="M31.1 87.8 A70 70 0 0 1 165.8 76.1" stroke="#1E88E5"/>
+    <path d="M168.9 112.2 A70 70 0 0 1 34.2 123.9" stroke="#F4511E"/>
+  </g>
+  <polygon points="170.6,94.3 178.1,70.3 153.5,79.3" fill="#1E88E5"/>
+  <polygon points="29.4,105.7 21.9,129.7 46.5,120.7" fill="#F4511E"/>
+  <!-- K monogram: navy stem, cool upper arm, warm lower arm -->
+  <rect x="72" y="62" width="16" height="76" rx="3" fill="#0D2B45"/>
+  <polygon points="88,96 116,62 136,62 100,106" fill="#1E88E5"/>
+  <polygon points="96,104 108,94 138,138 118,138" fill="#F4511E"/>
+</svg>
